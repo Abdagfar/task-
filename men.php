@@ -20,7 +20,7 @@
      
      <input type="text" placeholder="search">
 
-     <button>search</button>
+     < زر > ايجاد </ زر >
 
  </form>
  
